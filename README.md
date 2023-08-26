@@ -1,2 +1,2 @@
-# fortran-tutorial
+# Fortran Tutorial
 An approachable introduction to Fortran.
