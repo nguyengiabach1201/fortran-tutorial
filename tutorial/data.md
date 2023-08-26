@@ -7,7 +7,7 @@ Here are some basic types of data in Fortran compared to C
 | Fortran 2008 Data Type | C Data Type | Size (bytes) |
 |-------------------|-------------|------|
 | ```character :: x``` | ```unsigned char x;``` | 1 |
-| ```interger :: x``` | ```int x;``` | 4 |
+| ```integer :: x``` | ```int x;``` | 4 |
 | ```real :: x``` | ```float  x;``` | 4 |
 | ```logical :: x``` | ```int x;``` | 4 |
 | ```complex :: x``` | ```struct {float r,i;} x;``` | 8 |
@@ -34,11 +34,11 @@ We have `implicit none` statement is used to remove a very old feature of Fortra
   implicit none
   character :: jerk
 ```
-If we don't use `implicit none` then the variable `jerk` is a interger, but here with `implicit none`, `jerk` is a string
+If we don't use `implicit none` then the variable `jerk` is a integer, but here with `implicit none`, `jerk` is a string
 
 <br/>
 
-In addition, we add `(len=n)` to set the maximum length equal to n, example blow is 10 characters and `dimension` keyword can be used to create an array of numbers or a matrix
+In addition, we add `(len=n)` to set the maximum length equal to n, example blow is 10 characters, and `dimension` keyword can be used to create an array of numbers or a matrix
 
 ```fortran
   character (len=10) :: string
@@ -49,8 +49,8 @@ In addition, we add `(len=n)` to set the maximum length equal to n, example blow
 ### Pointer, target
 
 ```fortran
-INTEGER, POINTER :: PTR(:)
-INTEGER, TARGET :: TARG(5)
+integer, pointer :: PTR(:)
+integer, target :: TARG(5)
 PTR => TARG                  ! PTR is associated with TARG and is
                              !   assigned an array specification of (5)
 ```
