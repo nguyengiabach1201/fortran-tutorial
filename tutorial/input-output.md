@@ -21,7 +21,7 @@ print *, value
 
 |Function|Meaning|Arg Type|Return Type|
 |-|-|:-:|:-:|
-|`abs(x)`|absolute value of `x`|`int` or `real`|`int` or `real`|
+|`abs(x)`|absolute value of `x`|`integer` or `real`|`integer` or `real`|
 |`sqrt(x)`|square root of `x`|`real`|`real`|
 |`sin(x)`|sine of `x` radian|`real`|`real`|
 |`cos(x)`|cosine of `x` radian|`real`|`real`|
@@ -31,6 +31,10 @@ print *, value
 |`atan(x)`|arc tangent of `x`|`real`|`real`|
 |`exp(x)`|exp(`x`)|`real`|`real`|
 |`log(x)`|natural logarithm of `x`|`real`|`real`|
+
+### Conversion functions
+
+|`int(x)`|integer part of `x`|`real`|`integer`|
 
 <br/>
 
