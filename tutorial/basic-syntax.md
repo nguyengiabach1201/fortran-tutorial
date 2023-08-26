@@ -62,10 +62,23 @@ end do
 
 ### While loop
 
-It repeats a statement or a group of statements while a given condition is true. It tests the condition before executing the loop body.
+`while loop` repeats a statement or a group of statements while a given condition is true. It tests the condition before executing the loop body.
 
 ```fortran
+do while (logical expr) 
+   statements
+end do
+```
 
+Printing the numbers from 11 to 20 if we write in `while loop` will look like this
+```fortran
+integer :: n
+n = 11
+
+do while (n <= 11) 
+  print*, n
+  n = n + 1
+end do
 ```
 
 <br/>
