@@ -23,7 +23,12 @@ print *, value
 |-|-|:-:|:-:|
 |`abs(x)`|absolute value of `x`|`int` or `real`|`int` or `real`|
 |`sqrt(x)`|square root of `x`|`real`|`real`|
-|`sqrt(x)`|square root of `x`|`real`|`real`|
+|`sin(x)`|sine of `x` radian|`real`|`real`|
+|`cos(x)`|cosine of `x` radian|`real`|`real`|
+|`tan(x)`|tangent of `x` radian|`real`|`real`|
+|`asin(x)`|arc sine of `x`|`real`|`real`|
+|`acos(x)`|arc cosine of `x`|`real`|`real`|
+|`atan(x)`|arc tangent of `x`|`real`|`real`|
 
 <br/>
 
