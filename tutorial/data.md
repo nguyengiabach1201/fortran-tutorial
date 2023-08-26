@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Fortran Data Type | C Data Type | Size |
+| Fortran 2008 Data Type | C Data Type | Size |
 |-------------------|-------------|------|
 | character :: x | unsigned char x; | 1 |
 | character (len = n) :: x | unsigned char x[n]; | n |
