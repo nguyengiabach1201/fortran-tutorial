@@ -89,7 +89,7 @@ end do
   <em>
     <b>
       <a href="/tutorial/data.md">
-        Continue: Basic data types, size and declaration
+        Continue: Input and output
       </a>
     </b>
   </em>
