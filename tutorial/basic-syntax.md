@@ -6,12 +6,24 @@ There are more than **100 keywords** in Fortran, but today, we only learn some o
 
 #### Basic program
 
-We use `program` to give your app a name and `end program` keyword to end your app.
+We use `program` to give your app a name and `end program` keyword to close your app.
 
 ```fortran
 program firstProgram
 
 end program firstProgram
+```
+
+We can only create `one program per script`
+
+```fortran
+program firstProgram
+
+end program firstProgram
+
+program secondProgram     ! Output: error
+                          ! Output: error
+end program secondProgram ! Output: error
 ```
 
 <br/>
