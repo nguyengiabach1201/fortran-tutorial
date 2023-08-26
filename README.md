@@ -8,7 +8,7 @@
 </p>
 <br />
 
-Since I was in 4th grade, I've wanted to write some Fortran programs as a way to learn programming and computer history.
+Since I was in 4th grade, I've wanted to write some Fortran programs as a way to learn programming and computer history. On my adventure, I have quickly found lots of difficult and it took me a quite to understand what is going on.
 
 I want to write down a tutorial for those who are new to computer science (or interested in Fortran like me!), and I also included [some working examples](/examples). Anyways, This is not an exhaustive guide, but rather an approachable introduction to Fortran.
 
