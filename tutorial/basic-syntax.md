@@ -54,10 +54,10 @@ This example prints the numbers 11 to 20
 ```fortran
 integer :: n
    
-   do n = 11, 20     
-      ! printing the value of n 
-      print*,  n 
-   end do 
+do n = 11, 20     
+  ! printing the value of n 
+  print*,  n 
+end do 
 ```
 
 <br/>
