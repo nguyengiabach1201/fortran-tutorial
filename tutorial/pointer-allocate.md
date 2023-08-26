@@ -59,8 +59,8 @@ print *, goldenRatio ! Output: Error
 <p align="center">
   <em>
     <b>
-      <a href="/tutorial/.md">
-        Continue: 
+      <a href="/examples">
+        Continue: Look at examples
       </a>
     </b>
   </em>
