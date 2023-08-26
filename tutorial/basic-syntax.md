@@ -34,8 +34,10 @@ If you are familiar with modern programming language, you will notice a huge dif
 To declare a variable, we start with `type` then `name` and `value`
 
 ```fortran
-
+integer :: number = 0
 ```
+
+We will learn more about this later
 
 <br/>
 
