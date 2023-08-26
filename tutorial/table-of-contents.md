@@ -5,6 +5,8 @@
 
 ## Working examples
 
+1. [Hello world!](/examples/helloworld.f)
+
 <br/>
 
 ---
