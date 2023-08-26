@@ -29,6 +29,8 @@ print *, value
 |`asin(x)`|arc sine of `x`|`real`|`real`|
 |`acos(x)`|arc cosine of `x`|`real`|`real`|
 |`atan(x)`|arc tangent of `x`|`real`|`real`|
+|`exp(x)`|exp(`x`)|`real`|`real`|
+|`log(x)`|natural logarithm of `x`|`real`|`real`|
 
 <br/>
 
