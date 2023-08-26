@@ -29,6 +29,10 @@ Example of declare variables in Fortran
 
 We have `implicit none` statement is used to remove a very old feature of Fortran, which by default treats all variables that start with the letters `i, j, k, l, m, and n` as `integers` and all other variables as `real` arguments. Implicit None should always be used. It prevents the compiler from confusion between variable names.
 
+```fortran
+  implicit none
+```
+
 In addition, we add `(len=n)` to set the maximum length equal to n, example blow is 10 characters and `dimension` keyword can be used to create an array of numbers or a matrix
 
 ```fortran
