@@ -15,6 +15,8 @@ Here are some basic types of data in Fortran compared to C
 
 </div>
 
+Example of declare variables in Fortran
+
 ```fortran
   integer :: amount
   real :: pi
