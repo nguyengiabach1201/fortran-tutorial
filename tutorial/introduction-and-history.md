@@ -19,7 +19,7 @@ Fortran is short writing for "formula translator" and it is mostly used for scie
   <em>
     <b>
       <a href="/tutorial/data.md">
-        Continue: Data sizes and alignment
+        Continue: Basic data types, size and declaration
       </a>
     </b>
   </em>
