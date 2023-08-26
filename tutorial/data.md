@@ -14,8 +14,6 @@ Here are some basic types of data in Fortran compared to C
 Example of declare variables in Fortran
 
 ```fortran
-! This is a comment line; it is ignored by the compiler
-
   integer :: amount
   real :: pi
   complex :: frequency
@@ -27,13 +25,16 @@ Example of declare variables in Fortran
   frequency = (1.0, -0.5)
   initial = 'A'
   isOkay = .false.
-
-! Advance tips
-  ! Add (len=n) to set the maximum length, here is 10 characters
-  character (len=10) :: string 
 ```
 
 We have `implicit none` statement is used to remove a very old feature of Fortran, which by default treats all variables that start with the letters `i, j, k, l, m, and n` as `integers` and all other variables as `real` arguments. Implicit None should always be used. It prevents the compiler from confusion between variable names.
+
+In addition, we add `(len=n)` to set the maximum length equal to n, example blow is 10 characters and `dimension` keyword can be used to create an array of numbers
+
+```fortran
+  character (len=10) :: string
+  real, dimension(5) :: list 
+```
 
 ---
 
