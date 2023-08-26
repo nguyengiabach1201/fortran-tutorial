@@ -1,5 +1,6 @@
 ## <p align="center"> Data sizes and declaration </p>
 
+### Basic types and declaration
 Here are some basic types of data in Fortran compared to C
 <br/>
 
@@ -44,6 +45,17 @@ In addition, we add `(len=n)` to set the maximum length equal to n, example blow
   real, dimension(5) :: list
   real, dimension(2,3) :: matrix 
 ```
+
+### Pointer, target
+
+```fortran
+INTEGER, POINTER :: PTR(:)
+INTEGER, TARGET :: TARG(5)
+PTR => TARG                  ! PTR is associated with TARG and is
+                             !   assigned an array specification of (5)
+```
+
+### Allocate
 
 ---
 
