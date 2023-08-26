@@ -1,8 +1,9 @@
 ## Table of contents
 
 1. [Introduction and history](/tutorial/introduction-and-history.md)
-2. [Basic data types, size and declaration](/tutorial/data.md)
-3. [Pointers and memory allocation](/tutorial/pointer-allocate.md)
+2. [Basic syntax](/tutorial/basic-syntax.md)
+3. [Basic data types, size and declaration](/tutorial/data.md)
+4. [Pointers and memory allocation](/tutorial/pointer-allocate.md)
 
 ## Working examples
 
