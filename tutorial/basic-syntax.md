@@ -81,6 +81,19 @@ do while (n <= 11)
 end do
 ```
 
+### Writing functions
+
+A function is a procedure that returns a single quantity. A function should not modify its arguments.
+
+```fortran
+type function name(arg1, arg2, ...) result(arg)
+   [declarations, including those for the arguments]
+    type, intent (in) :: arg1, arg2, ... ! input
+    type              :: arg ! output
+   [executable statements] 
+end function [name]
+```
+
 <br/>
 
 ---
