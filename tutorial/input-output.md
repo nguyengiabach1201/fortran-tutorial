@@ -21,7 +21,8 @@ print *, value
 
 |Function|Meaning|Arg Type|Return Type|
 |-|-|:-:|:-:|
-|`abs(x)`|absolute value of `x`|`integer` or `real`|`integer` or `real`|
+|`abs(x)`|absolute value of `x`|`integer`|`integer`|
+|        |                     |`real`|`real`|
 |`sqrt(x)`|square root of `x`|`real`|`real`|
 |`sin(x)`|sine of `x` radian|`real`|`real`|
 |`cos(x)`|cosine of `x` radian|`real`|`real`|
