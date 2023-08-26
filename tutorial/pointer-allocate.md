@@ -38,7 +38,19 @@ deallocate(PI) ! Deallocate PI pointer
 print *, PI ! Output: Error
 ```
 
+```fortran
+implicit none
+
+real, allocatable :: goldenRatio ! Allocate `goldenRatio` and no need for `allocate(goldenRatio) `
+goldenRatio = 1.61803398875
+print *, goldenRatio ! Output: 1.61803398875
+deallocate(goldenRatio) ! Deallocate PI pointer
+print *, goldenRatio ! Output: Error
+```
+
 `deallocate` a `pointer` causes the `pointer` association status of any other `pointer` that is `associated` with the `target` become `undefined`.
+
+*Attention* you cannot set a value of a 
 
 <br/>
 
