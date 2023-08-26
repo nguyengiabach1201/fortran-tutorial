@@ -17,6 +17,10 @@ The simplest and most convenient way to handle output is `print` command
 print *, value
 ```
 
+### Mathematics functions
+
+
+
 <br/>
 
 ---
