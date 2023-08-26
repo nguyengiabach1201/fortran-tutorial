@@ -2,13 +2,9 @@
 
 Keywords are special words, reserved for the language. These reserved words cannot be used as identifiers or names.
 
-The following table are lists of the Fortran keywords
+There are more than 100 keywords in Fortran, but to day, we only learn some of that
 
-|  |  |  |
-| -------- | ------- | ------- |
-| January  | $250    |  |
-| February | $80     |  |
-| March    | $420    |  |
+
 
 <br/>
 
