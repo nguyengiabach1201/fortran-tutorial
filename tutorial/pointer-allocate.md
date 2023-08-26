@@ -1,6 +1,6 @@
 ## <p align="center"> Pointers and memory allocation </p>
 
-### Pointer, target
+#### Pointer, target
 
 In most programming languages, a `pointer variable` stores the `memory address` of an object. However, in Fortran, a pointer is a `data object` that has more functionalities than just storing the `memory address`. It contains more information about a particular object, like `type, rank, extent, and memory address`.
 
@@ -21,7 +21,7 @@ PTR => TARG                  ! PTR is associated with TARG and is
                              !   assigned an array specification of (5)
 ```
 
-### Allocate
+#### Allocate
 
 <br/>
 
