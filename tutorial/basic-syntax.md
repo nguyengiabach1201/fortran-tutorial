@@ -1,4 +1,8 @@
-# <p align="center"> Basic syntax </p>
+## <p align="center"> Basic syntax </p>
+
+Keywords are special words, reserved for the language. These reserved words cannot be used as identifiers or names.
+
+The following table are lists of the Fortran keywords
 
 <br/>
 
