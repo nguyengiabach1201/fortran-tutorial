@@ -1,7 +1,5 @@
 ## <p align="center"> Data sizes and alignment </p>
 
-<div align="center">
-  
 Here are some basic types of data in Fortran compared to C
 <br/>
 
@@ -12,8 +10,6 @@ Here are some basic types of data in Fortran compared to C
 | real :: x | float  x; | 4 |
 | logical :: x | int x; | 4 |
 | complex :: x | struct {float r,i;} x; | 8 |
-
-</div>
 
 Example of declare variables in Fortran
 
