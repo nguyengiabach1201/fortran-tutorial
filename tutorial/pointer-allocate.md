@@ -25,6 +25,8 @@ PTR => TARG                  ! PTR is associated with TARG and is
 
 #### Allocate
 
+The `allocate` statement creates `space` for `allocatable` arrays and variables with the `pointer` attribute. The `deallocate` statement frees space previously allocated for `allocatable` arrays and `pointer` targets. These statements give the user the ability to `manage space dynamically` at execution time.
+
 <br/>
 
 ---
