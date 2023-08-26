@@ -88,7 +88,7 @@ end do
 <p align="center">
   <em>
     <b>
-      <a href="/tutorial/data.md">
+      <a href="/tutorial/input-output.md">
         Continue: Input and output
       </a>
     </b>
