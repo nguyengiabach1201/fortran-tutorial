@@ -39,6 +39,27 @@ integer :: number = 0
 
 We will learn more about this later
 
+#### Loop
+
+Below is the general form of the `do loop`
+
+```fortran
+do var = start, stop [,step]    
+   ! statement(s)
+   …
+end do
+```
+
+This example prints the numbers 11 to 20
+```fortran
+integer :: n
+   
+   do n = 11, 20     
+      ! printing the value of n 
+      print*,  n 
+   end do 
+```
+
 <br/>
 
 ---
