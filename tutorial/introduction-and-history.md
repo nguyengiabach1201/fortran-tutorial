@@ -10,4 +10,14 @@ Fortran is short writing for "formula translator" and it is mostly used for scie
 
 ---
 
+<p align="center">
+  <em>
+    <b>
+      <a href="/tutorial/data.md">
+        Continue: Data sizes and alignment
+      </a>
+    </b>
+  </em>
+</p>
+
 ---
