@@ -8,6 +8,7 @@
 </p>
 <br />
 
+Since I was in 4th grade, I've wanted to write some Fortran programs as a way to learn programming and also computer history!
 <br />
 
 ---
