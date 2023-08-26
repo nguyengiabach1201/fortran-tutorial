@@ -1,6 +1,6 @@
 ## <p align="center"> Some useful functions </p>
 
-### Input
+### Input and output
 
 To get user's input, Fortran has `read` to make everythings easy
 
@@ -8,8 +8,6 @@ To get user's input, Fortran has `read` to make everythings easy
 read *, value ! Is ok
 read (*,*) value ! Is also ok
 ```
-
-### Output
 
 The simplest and most convenient way to handle output is `print` command
 
