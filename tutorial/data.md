@@ -1,4 +1,4 @@
-## <p align="center"> Data sizes and alignment </p>
+## <p align="center"> Data sizes and declaration </p>
 
 Here are some basic types of data in Fortran compared to C
 <br/>
