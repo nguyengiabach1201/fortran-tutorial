@@ -4,6 +4,12 @@ Keywords are special words, reserved for the language. These reserved words cann
 
 The following table are lists of the Fortran keywords
 
+|  |  |  |
+| -------- | ------- | ------- |
+| January  | $250    |  |
+| February | $80     |  |
+| March    | $420    |  |
+
 <br/>
 
 ---
