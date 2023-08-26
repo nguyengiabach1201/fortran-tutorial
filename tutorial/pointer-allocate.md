@@ -44,7 +44,7 @@ implicit none
 real, allocatable :: goldenRatio ! Allocate `goldenRatio` and no need for `allocate(goldenRatio) `
 goldenRatio = 1.61803398875
 print *, goldenRatio ! Output: 1.61803398875
-deallocate(goldenRatio) ! Deallocate PI pointer
+deallocate(goldenRatio) ! Deallocate `goldenRatio`
 print *, goldenRatio ! Output: Error
 ```
 
