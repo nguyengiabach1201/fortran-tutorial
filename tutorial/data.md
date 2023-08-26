@@ -4,8 +4,8 @@
 
 | Fortran Data Type | C Data Type | Size |
 |-------------------|-------------|------|
-| col 1 is | left-aligned | $1600 |
-| col 2 is | centered | $12 |
+| character :: x | unsigned char x; | 1 |
+| character (len = n) :: x | centered | $12 |
 | col 3 is | right-aligned | $1 |
 
 </div>
