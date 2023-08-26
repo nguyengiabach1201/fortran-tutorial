@@ -1,5 +1,7 @@
 # <p align="center"> Basic syntax </p>
 
+<br/>
+
 ---
 
 <p align="center">
