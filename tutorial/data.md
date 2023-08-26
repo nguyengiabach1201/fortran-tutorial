@@ -39,4 +39,14 @@ In addition, we add `(len=n)` to set the maximum length equal to n, example blow
 
 ---
 
+<p align="center">
+  <em>
+    <b>
+      <a href="/tutorial/.md">
+        Continue: 
+      </a>
+    </b>
+  </em>
+</p>
+
 ---
