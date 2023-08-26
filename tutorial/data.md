@@ -73,7 +73,7 @@ PTR => TARG                  ! PTR is associated with TARG and is
 <p align="center">
   <em>
     <b>
-      <a href="/tutorial/.md">
+      <a href="/tutorial/pointer-allocate.md">
         Continue: Pointers and memory allocation
       </a>
     </b>
