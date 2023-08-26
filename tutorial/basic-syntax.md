@@ -4,7 +4,7 @@ Keywords are special words, reserved for the language. These reserved words cann
 
 There are more than **100 keywords** in Fortran, but today, we only learn some of them.
 
-#### Basic program
+### Basic program
 
 We use `program` to give your app a name and `end program` keyword to close your app.
 
@@ -29,7 +29,7 @@ end program secondProgram ! Output: error
 
 If you are familiar with modern programming language, you will notice a huge different, Fortran use `!` as a comment instead of using `#` like Python or `//` like C, C++, ...
 
-#### Declare variables
+### Declare variables
 
 To declare a variable, we start with `type` then `name` and `value`
 
@@ -39,7 +39,7 @@ integer :: number = 0
 
 We will learn more about this later
 
-#### Loop
+### Loop
 
 Below is the general form of the `do loop`
 
