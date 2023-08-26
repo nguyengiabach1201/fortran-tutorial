@@ -2,7 +2,7 @@
 ### An easily approachable introduction to Fortran.
 
 <p align="center">
-  <img width="375" src="https://elias.praciano.com/wp-content/uploads/2017/06/fortran_book-16color.png">
+  <img width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1024px-Fortran_logo.svg.png">
 </p>
 <br />
 
