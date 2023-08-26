@@ -34,7 +34,7 @@ print *, PI
 deallocate(PI) ! Deallocate PI pointer
 ```
 
-After `deallocate` a `pointer`, you can no langer use that `pointer`
+`deallocate` a `pointer` causes the `pointer` association status of any other `pointer` that is `associated` with the `target` become `undefined`.
 
 <br/>
 
