@@ -28,10 +28,14 @@ PTR => TARG                  ! PTR is associated with TARG and is
 The `allocate` statement creates `space` for `allocatable` arrays and variables with the `pointer` attribute. The `deallocate` statement frees space previously allocated for `allocatable` arrays and `pointer` targets. These statements give the user the ability to `manage space dynamically` at execution time.
 
 ```fortran
-real, pointer :: PI = 3.14159265359
+implicit none
+
+real, pointer :: PI
 allocate(PI) ! Allocate PI pointer
-print *, PI
+PI =  = 3.14159265359
+print *, PI ! Output: 3.14159265359
 deallocate(PI) ! Deallocate PI pointer
+print *, PI ! Output: Error
 ```
 
 `deallocate` a `pointer` causes the `pointer` association status of any other `pointer` that is `associated` with the `target` become `undefined`.
