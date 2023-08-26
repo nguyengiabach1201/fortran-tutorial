@@ -2,7 +2,7 @@
 
 1. [Introduction and history](/tutorial/introduction-and-history.md)
 2. [Basic data types, size and declaration](/tutorial/data.md)
-3. [Pointers and allocate methods](/tutorial/pointer-allocate.md)
+3. [Pointers and memory allocation](/tutorial/pointer-allocate.md)
 
 ## Working examples
 
