@@ -23,7 +23,7 @@ Enjoy!
 <p align="center">
   <em>
     <b>
-      <a href="/guide/table-of-contents.md">
+      <a href="/tutorial/table-of-contents.md">
         Let start
       </a>
     </b>
