@@ -10,7 +10,7 @@ We use `program` to give your app a name and `end program` keyword to close your
 
 ```fortran
 program firstProgram
-
+! Your program start here
 end program firstProgram
 ```
 
@@ -20,6 +20,7 @@ We can only create `one program per script`
 program firstProgram
 
 end program firstProgram
+
 
 program secondProgram     ! Output: error
                           ! Output: error
