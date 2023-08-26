@@ -20,9 +20,10 @@ print *, value
 ### Mathematics functions
 
 |Function|Meaning|Arg Type|Return Type|
-|-|-|-|-|
-|`abs(x)`|absolute value of `x`|||
-|||||
+|-|-|:-:|:-:|
+|`abs(x)`|absolute value of `x`|`int` or `real`|`int` or `real`|
+|`sqrt(x)`|square root of `x`|`real`|`real`|
+|`sqrt(x)`|square root of `x`|`real`|`real`|
 
 <br/>
 
