@@ -1,5 +1,10 @@
 ## Introduction and history 
 
+<p align="center">
+  <br />
+  <img width="375" src="https://hackaday.com/wp-content/uploads/2015/10/fortran-card.jpg" />
+</p>
+
 Fortran (or FORTRAN) is a compiled imperative programming language developed by IBM in the 1950s and is famous for being the first high-level programming language.
 
 Fortran is short writing for "formula translator" and it is mostly used for scientific and engineering applications and subsequently came to dominate scientific computing until the C era.
