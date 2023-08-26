@@ -25,22 +25,9 @@ Example of declare variables in Fortran
   frequency = (1.0, -0.5)
   initial = 'A'
   isOkay = .false.
-```
 
-In advance, we have
-
-```fortran
-  integer :: amount
-  real :: pi
-  complex :: frequency
-  character :: initial
-  logical :: isOkay
-
-  amount = 10
-  pi = 3.1415927
-  frequency = (1.0, -0.5)
-  initial = 'A'
-  isOkay = .false.
+! Advance tips
+  character (len=10) :: string ! Add (len=n) to set the maximum length, here is 10 characters
 ```
 
 We have `implicit none` statement is used to remove a very old feature of Fortran, which by default treats all variables that start with the letters `i, j, k, l, m, and n` as `integers` and all other variables as `real` arguments. Implicit None should always be used. It prevents the compiler from confusion between variable names.
