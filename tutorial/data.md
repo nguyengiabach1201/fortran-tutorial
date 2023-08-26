@@ -42,5 +42,3 @@ In advance, we have
   initial = 'A'
   isOkay = .false.
 ```
-
-| character (len = n) :: x | unsigned char x[n]; | n |
