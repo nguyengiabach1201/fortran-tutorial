@@ -27,6 +27,8 @@ program secondProgram     ! Output: error
 end program secondProgram ! Output: error
 ```
 
+If you are familiar with modern programming language, you will notice a huge different, Fortran use `!` as a comment instead of using `#` like Python or `//` like C, C++, ...
+
 <br/>
 
 ---
