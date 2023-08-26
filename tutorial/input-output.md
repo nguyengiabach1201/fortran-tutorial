@@ -19,7 +19,10 @@ print *, value
 
 ### Mathematics functions
 
-
+|Function|Meaning|Arg Type|Return Type|
+|-|-|-|-|
+|`abs(x)`|absolute value of `x`|||
+|||||
 
 <br/>
 
