@@ -39,6 +39,8 @@ print *, value
 |`int(x)`|integer part of `x`|`real`|`integer`|
 |`nint(x)`|nearest integer to `x`|`real`|`integer`|
 |`floor(x)`|greatest integer less than or equal to `x`|`real`|`integer`|
+|`fraction(x)`|the fractional part of `x`|`real`|`real`|
+|`real(x)`|conver `x` to `real`|`integer`|`real`|
 
 <br/>
 
