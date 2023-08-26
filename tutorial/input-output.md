@@ -34,6 +34,8 @@ print *, value
 
 ### Conversion functions
 
+|Function|Meaning|Arg Type|Return Type|
+|-|-|:-:|:-:|
 |`int(x)`|integer part of `x`|`real`|`integer`|
 
 <br/>
