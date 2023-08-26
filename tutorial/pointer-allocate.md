@@ -50,7 +50,7 @@ print *, goldenRatio ! Output: Error
 
 `deallocate` a `pointer` causes the `pointer` association status of any other `pointer` that is `associated` with the `target` become `undefined`.
 
-**Attention** you cannot set a value of a variable before `allocate` it.
+**ATTENTION** you cannot set a value of a variable before `allocate` it.
 
 <br/>
 
