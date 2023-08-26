@@ -29,6 +29,14 @@ end program secondProgram ! Output: error
 
 If you are familiar with modern programming language, you will notice a huge different, Fortran use `!` as a comment instead of using `#` like Python or `//` like C, C++, ...
 
+#### Declare variables
+
+To declare a variable, we start with `type` then `name` and `value`
+
+```fortran
+
+```
+
 <br/>
 
 ---
