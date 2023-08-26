@@ -87,12 +87,13 @@ A function is a procedure that returns a single quantity. A function should not 
 
 ```fortran
 type function name(arg1, arg2, ...) result(arg)
-   [declarations, including those for the arguments]
     type, intent (in) :: arg1, arg2, ... ! input
     type              :: arg ! output
    [executable statements] 
 end function [name]
 ```
+
+To use a function, you can 
 
 <br/>
 
