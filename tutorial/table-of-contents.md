@@ -19,4 +19,14 @@
   </em>
 </p>
 
+<p align="left">
+  <em>
+    <b>
+      <a href="/tutorial/introduction-and-history.md">
+        Introduction and history
+      </a>
+    </b>
+  </em>
+</p>
+
 ---
