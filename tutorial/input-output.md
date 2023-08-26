@@ -1,4 +1,4 @@
-## <p align="center"> Input and output </p>
+## <p align="center"> Input, output and some built-in functions </p>
 
 ### Input
 
