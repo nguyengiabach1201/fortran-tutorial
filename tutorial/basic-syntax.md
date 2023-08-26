@@ -89,7 +89,7 @@ end do
   <em>
     <b>
       <a href="/tutorial/input-output.md">
-        Continue: Input and output
+        Continue: Input, output and some built-in functions
       </a>
     </b>
   </em>
