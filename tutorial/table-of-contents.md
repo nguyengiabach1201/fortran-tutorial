@@ -10,6 +10,7 @@
 
 1. [Hello world!](/examples/helloworld.f)
 2. [Calculate cube volume (click to see more about function)](/examples/cube-volume.f)
+3. [Math examples](/examples/math.f)
 
 <br/>
 
