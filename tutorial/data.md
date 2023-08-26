@@ -52,6 +52,14 @@ In most programming languages, a pointer variable stores the memory address of a
 
 A pointer is associated with a target by allocation or pointer assignment.
 
+Example of declare pointers
+
+```fortran
+integer, pointer :: p1 ! pointer to integer  
+real, pointer, dimension (:) :: pra ! pointer to 1-dim real array  
+real, pointer, dimension (:,:) :: pra2 ! pointer to 2-dim real array
+```
+
 ```fortran
 integer, pointer :: PTR(:)
 integer, target :: TARG(5)
