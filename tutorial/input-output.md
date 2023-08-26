@@ -42,6 +42,14 @@ print *, value
 |`fraction(x)`|the fractional part of `x`|`real`|`real`|
 |`real(x)`|conver `x` to `real`|`integer`|`real`|
 
+### Other functions
+
+|Function|Meaning|Arg Type|Return Type|
+|-|-|:-:|:-:|
+|`max(x1,x2,...,xn)`|maximum of `x1, x2, ... xn`|`integer` or `real`|`integer` or `real`|
+|`min(x1,x2,...,xn)`|minimum of `x1, x2, ... xn`|`integer` or `real`|`integer` or `real`|
+|`mod(x,y)`|remainder `x - int(x/y)*y`|`integer` or `real`|`integer` or `real`|
+
 <br/>
 
 ---
