@@ -83,7 +83,7 @@ end do
 
 ### Writing functions
 
-A function is a procedure that returns a single quantity. A function should not modify its arguments.
+A `function` is a procedure that returns a single quantity. A `function` should not modify its arguments.
 
 ```fortran
 type function name(arg1, arg2, ...) result(arg)
@@ -93,7 +93,7 @@ type function name(arg1, arg2, ...) result(arg)
 end function [name]
 ```
 
-To use a function, you can see more in [this example](/examples/cube-volume.f)
+To use a `function`, you can see more in [this example](/examples/cube-volume.f)
 
 <br/>
 
