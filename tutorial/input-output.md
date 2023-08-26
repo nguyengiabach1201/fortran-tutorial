@@ -37,6 +37,8 @@ print *, value
 |Function|Meaning|Arg Type|Return Type|
 |-|-|:-:|:-:|
 |`int(x)`|integer part of `x`|`real`|`integer`|
+|`nint(x)`|nearest integer to `x`|`real`|`integer`|
+|`floor(x)`|greatest integer less than or equal to `x`|`real`|`integer`|
 
 <br/>
 
