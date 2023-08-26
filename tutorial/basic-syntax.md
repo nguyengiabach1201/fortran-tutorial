@@ -39,6 +39,20 @@ integer :: number = 0
 
 We will learn more about this later
 
+### If-else statement
+
+```fortran
+if (logical-expression-1) then
+   statements-1
+else if (logical-expression-2) then
+   statements-2
+else if (logical-expression-3) then
+   statement-3
+else
+   statements-else
+end if
+```
+
 ### Do loop
 
 Below is the general form of the `do loop`
