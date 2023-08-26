@@ -27,4 +27,20 @@ Example of declare variables in Fortran
   isOkay = .false.
 ```
 
+In advance, we have
+
+```fortran
+  integer :: amount
+  real :: pi
+  complex :: frequency
+  character :: initial
+  logical :: isOkay
+
+  amount = 10
+  pi = 3.1415927
+  frequency = (1.0, -0.5)
+  initial = 'A'
+  isOkay = .false.
+```
+
 | character (len = n) :: x | unsigned char x[n]; | n |
