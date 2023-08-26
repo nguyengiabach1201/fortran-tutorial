@@ -41,6 +41,8 @@ We will learn more about this later
 
 ### If-else statement
 
+An if statement construct can have one or more optional else-if constructs. When the if condition fails, the immediately followed else-if is executed. When the else-if also fails, its successor else-if statement (if any) is executed, and so on.
+
 ```fortran
 if (logical-expression-1) then
    statements-1
