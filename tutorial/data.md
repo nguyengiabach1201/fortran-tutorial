@@ -1,6 +1,5 @@
-## <p align="center"> Data sizes and declaration </p>
+## <p align="center"> Basic data types, size and declaration </p>
 
-### Basic data types, size and declaration
 Here are some basic types of data in Fortran compared to C
 <br/>
 
