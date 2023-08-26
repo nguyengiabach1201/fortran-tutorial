@@ -39,7 +39,7 @@ integer :: number = 0
 
 We will learn more about this later
 
-### Loop
+### Do loop
 
 Below is the general form of the `do loop`
 
@@ -58,6 +58,14 @@ do n = 11, 20
   ! printing the value of n 
   print*,  n 
 end do 
+```
+
+### While loop
+
+It repeats a statement or a group of statements while a given condition is true. It tests the condition before executing the loop body.
+
+```fortran
+
 ```
 
 <br/>
