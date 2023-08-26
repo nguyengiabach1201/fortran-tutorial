@@ -4,4 +4,4 @@ Fortran (or FORTRAN) is a compiled imperative programming language developed by 
 
 It is mostly used for scientific and engineering applications and subsequently came to dominate scientific computing until the C era
 
-Fun fact: It was developed by John Backus, a guy who is too lazy to write assembly code (you can read more about assembly [here](https://wikipedia.org/wiki/Assembly_language)
+Fun fact: It was developed by John Backus, a guy who is too lazy to write assembly code (you can read more about assembly [here](https://wikipedia.org/wiki/Assembly_language))
