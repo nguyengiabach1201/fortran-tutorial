@@ -7,7 +7,7 @@ An approachable introduction to Fortran.
   <em>
     <b>
       <a href="/guide/table-of-contents.md">
-        What's inside? →
+        Let start
       </a>
     </b>
   </em>
@@ -16,8 +16,8 @@ An approachable introduction to Fortran.
 ---
 
 <p align="center">
-  <a href="https://hackclub.com/">
+  <a href="https://github.com/nguyengiabach1201">
     <img width="35" src="https://cloud-l0g1cgz4b-hack-club-bot.vercel.app/0h.png"><br/>
-    Made with love by Hack Club
+    Made by me
   </a>
 </p>
