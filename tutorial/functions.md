@@ -48,6 +48,19 @@ print *, value
 |`min(x1,x2,...,xn)`|minimum of `x1, x2, ... xn`|`integer` or `real`|`integer` or `real`|
 |`mod(x,y)`|remainder `x - int(x/y)*y`|`integer` or `real`|`integer` or `real`|
 
+**Bonus** to generate random number, we use `call random_number(n)`
+
+Example
+
+```fortran
+! a variable to receive a random number
+real :: r
+double precision :: s
+
+call random_number(r)  ! for single precision
+call random_number(s)  ! for double precision
+```
+
 <br/>
 
 ---
