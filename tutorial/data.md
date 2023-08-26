@@ -48,6 +48,10 @@ In addition, we add `(len=n)` to set the maximum length equal to n, example blow
 
 ### Pointer, target
 
+In most programming languages, a pointer variable stores the memory address of an object. However, in Fortran, a pointer is a data object that has more functionalities than just storing the memory address. It contains more information about a particular object, like type, rank, extents, and memory address.
+
+A pointer is associated with a target by allocation or pointer assignment.
+
 ```fortran
 integer, pointer :: PTR(:)
 integer, target :: TARG(5)
