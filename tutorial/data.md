@@ -2,7 +2,7 @@
 
 <div align="center">
   
-Here are some basic types of data in Fortran compare to C
+Here are some basic types of data in Fortran compared to C
 <br/>
 
 | Fortran 2008 Data Type | C Data Type | Size (bytes) |
