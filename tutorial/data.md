@@ -31,7 +31,11 @@ We have `implicit none` statement is used to remove a very old feature of Fortra
 
 ```fortran
   implicit none
+  character :: jerk
 ```
+If we don't use `implicit none` then the variable `jerk` is a interger, but here with `implicit none`, `jerk` is a string
+
+<br/>
 
 In addition, we add `(len=n)` to set the maximum length equal to n, example blow is 10 characters and `dimension` keyword can be used to create an array of numbers or a matrix
 
