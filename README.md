@@ -1,5 +1,5 @@
 # Fortran Tutorial
-An approachable introduction to Fortran.
+### An easily approachable introduction to Fortran.
 
 ---
 
