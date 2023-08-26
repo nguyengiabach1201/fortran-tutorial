@@ -32,7 +32,7 @@ implicit none
 
 real, pointer :: PI
 allocate(PI) ! Allocate PI pointer
-PI =  = 3.14159265359
+PI = 3.14159265359
 print *, PI ! Output: 3.14159265359
 deallocate(PI) ! Deallocate PI pointer
 print *, PI ! Output: Error
