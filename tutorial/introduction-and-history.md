@@ -1,4 +1,4 @@
-## Introduction and history 
+## <p align="center"> Introduction and history  </p>
 
 <p align="center">
   <br />
