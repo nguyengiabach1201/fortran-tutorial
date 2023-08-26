@@ -14,6 +14,10 @@ real, pointer, dimension (:) :: pra ! pointer to 1-dim real array
 real, pointer, dimension (:,:) :: pra2 ! pointer to 2-dim real array
 ```
 
+A `target` is another normal variable, with space set aside for it. A target variable must be declared with the target attribute.
+
+You associate a `pointer` variable with a `target` variable using the association operator `=>`.
+
 ```fortran
 integer, pointer :: PTR(:)
 integer, target :: TARG(5)
