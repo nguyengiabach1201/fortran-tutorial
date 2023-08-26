@@ -27,7 +27,7 @@
   <em>
     <b>
       <a href="/tutorial/introduction-and-history.md">
-        Introduction and history
+        Continue: Introduction and history
       </a>
     </b>
   </em>
