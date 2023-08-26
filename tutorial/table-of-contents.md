@@ -1,3 +1,17 @@
+---
+
+<p align="center">
+  <em>
+    <b>
+      <a href="/README.md">
+        Back
+      </a>
+    </b>
+  </em>
+</p>
+
+---
+
 ## Table of contents
 
 1. [Introduction and history](/tutorial/introduction-and-history.md)
@@ -9,17 +23,7 @@
 
 ---
 
-<p align="left">
-  <em>
-    <b>
-      <a href="/README.md">
-        Back
-      </a>
-    </b>
-  </em>
-</p>
-
-<p align="right">
+<p align="center">
   <em>
     <b>
       <a href="/tutorial/introduction-and-history.md">
@@ -28,5 +32,5 @@
     </b>
   </em>
 </p>
-
+  
 ---
