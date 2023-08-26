@@ -9,6 +9,7 @@
 ## Working examples
 
 1. [Hello world!](/examples/helloworld.f)
+2. [Calculate cube volume (click to see more about function)](/examples/cube-volume.f)
 
 <br/>
 
