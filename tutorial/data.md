@@ -52,7 +52,7 @@ In addition, we add `(len=n)` to set the maximum length equal to n, example blow
 <p align="center">
   <em>
     <b>
-      <a href="./tutorial/pointer-allocate.md">
+      <a href="../tutorial/pointer-allocate.md">
         Continue: Pointers and memory allocation
       </a>
     </b>
