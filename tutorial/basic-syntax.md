@@ -109,7 +109,7 @@ type function name(arg1, arg2, ...) result(arg)
 end function [name]
 ```
 
-To use a `function`, you can see more in [this example](./examples/cube-volume.f)
+To use a `function`, you can see more in [this example](../examples/cube-volume.f)
 
 <br/>
 
@@ -118,7 +118,7 @@ To use a `function`, you can see more in [this example](./examples/cube-volume.f
 <p align="center">
   <em>
     <b>
-      <a href="./tutorial/functions.md">
+      <a href="../tutorial/functions.md">
         Continue: Some useful functions
       </a>
     </b>
