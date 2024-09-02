@@ -1,6 +1,6 @@
-# <p align="center"> Fortran Tutorial </p>
+# Fortran Tutorial
 
-### <p align="center"> An easily approachable introduction to Fortran </p>
+### An easily approachable introduction to Fortran
 <br />
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 Since I was in 4th grade, I've wanted to write some Fortran programs as a way to learn programming and computer history. On my adventure, I quickly found lots of difficulties and it took me a quite to understand what was going on.
 
-I want to write down a tutorial for those who are new to computer science (or interested in Fortran like me!), and I also included [some working examples](/examples). Anyways, This is not an exhaustive guide, but rather an approachable introduction to Fortran.
+I want to write down a tutorial for those who are new to computer science (or interested in Fortran like me!), and I also included [some working examples](./examples). Anyways, This is not an exhaustive guide, but rather an approachable introduction to Fortran.
 
 Reading this tutorial takes as much as **30 minutes**, but you can also spend a **few hours** going through the code examples.
 
@@ -23,7 +23,7 @@ Enjoy!
 <p align="center">
   <em>
     <b>
-      <a href="/tutorial/table-of-contents.md">
+      <a href="./tutorial/table-of-contents.md">
         Let start
       </a>
     </b>
