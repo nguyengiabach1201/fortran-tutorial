@@ -18,7 +18,7 @@ Fortran is short writing for "formula translator" and it is mostly used for scie
 <p align="center">
   <em>
     <b>
-      <a href="/tutorial/basic-syntax.md">
+      <a href="../tutorial/basic-syntax.md">
         Continue: Basic syntax
       </a>
     </b>
